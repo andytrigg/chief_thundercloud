@@ -1,4 +1,4 @@
-chief-thundercloud
-==================
+ChiefThundercloud
+=================
 
-Message queue implemented in Elixir
+** TODO: Add description **
